@@ -8,8 +8,11 @@ Recently I have completed by HR attrition analysis and excited to share .
 📌 𝐓𝐨𝐩 𝐊𝐏𝐈'𝐬.
 
 ▶ Total Employees-2925
+
 ▶ Total Employees Attrition Rate-17%
+
 ▶ Total Active Employees -83%
+
 ▶ Total Attrition by Gender Female-40% and Male-60%.
 
 💡𝐓𝐨𝐩 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬.
